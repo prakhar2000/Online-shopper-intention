@@ -15,6 +15,4 @@ Open the terminal in you machine and run the following command to access the web
 
 streamlit run app.py
 
-**Screenshot**
 
-![Alt text](/Screenshot(134).png?raw=true "Optional Title")
