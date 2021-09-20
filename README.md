@@ -17,6 +17,4 @@ streamlit run app.py
 
 **Screenshot**
 
-![This is an image](https://drive.google.com/file/d/1Z9VM_kVjOhDqm--YvjpI7yH5PGJC1y6M/view?usp=sharing)
-
-![alt text](https://drive.google.com/file/d/1Z9VM_kVjOhDqm--YvjpI7yH5PGJC1y6M/view?usp=sharing)
+![Alt text](/Screenshot(134).png?raw=true "Optional Title")
